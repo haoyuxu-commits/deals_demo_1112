@@ -1,0 +1,376 @@
+{
+  "collected_at": "2026-11-13T11:25:04+08:00",
+  "region": "US",
+  "source": "https://trends.pinterest.com/",
+  "baseline": true,
+  "coverage": "公开预览，非全量；编辑推荐已展开全部5组，年度预测已翻页收齐21个名称。搜索完整列表、圣诞专题详情实测要求登录。",
+  "focus": {
+    "metric": "Pin收藏次数月增长",
+    "period": "2026-08-17/2026-11-09",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Christmas Apartment Decor",
+        "zh": "圣诞公寓装饰",
+        "category": "家居装潢",
+        "monthly_change": "500%"
+      },
+      {
+        "rank": 2,
+        "name": "Christmas Window Painting",
+        "zh": "圣诞窗户彩绘",
+        "category": "事件规划、艺术、家居装潢",
+        "monthly_change": "200%"
+      },
+      {
+        "rank": 3,
+        "name": "Friendsgiving Party Ideas",
+        "zh": "朋友感恩节聚会创意",
+        "category": "事件规划、食品和饮料",
+        "monthly_change": "100%"
+      },
+      {
+        "rank": 4,
+        "name": "Christmas Cookie Recipes",
+        "zh": "圣诞饼干食谱",
+        "category": "食品和饮料、事件规划",
+        "monthly_change": "100%"
+      },
+      {
+        "rank": 5,
+        "name": "Medium Length Hairstyles for Thick Hair",
+        "zh": "适合浓密发质的中长发型",
+        "category": "美妆",
+        "monthly_change": null
+      }
+    ]
+  },
+  "search": {
+    "metric": "搜索变化",
+    "period": null,
+    "items": [
+      {
+        "name": "bicep heart",
+        "zh": "肱二头肌爱心（直译，含义待核实）",
+        "weekly_change": "10,000%+",
+        "monthly_change": "10,000%+",
+        "yearly_change": "10,000%+"
+      },
+      {
+        "name": "november 1st blessings",
+        "zh": "11月1日祝福",
+        "weekly_change": "10,000%+",
+        "monthly_change": "10,000%+",
+        "yearly_change": "500%"
+      },
+      {
+        "name": "november blessings",
+        "zh": "11月祝福",
+        "weekly_change": "3,500%",
+        "monthly_change": "10,000%+",
+        "yearly_change": "20%"
+      },
+      {
+        "name": "me as a mood",
+        "zh": "用一种心情表达我",
+        "weekly_change": "10,000%+",
+        "monthly_change": "10,000%+",
+        "yearly_change": "10,000%+"
+      },
+      {
+        "name": "november nails ideas 2026",
+        "zh": "2026年11月美甲创意",
+        "weekly_change": "200%",
+        "monthly_change": "10,000%+",
+        "yearly_change": "10,000%+"
+      }
+    ]
+  },
+  "shopping": {
+    "metric": "出站点击次数月增长",
+    "note": "中文页面未提供英文原名；有预测标识的图表延伸到未来，不将图表未来部分作实测。",
+    "items": [
+      {
+        "rank": 1,
+        "name": "食品搅拌机与搅拌器",
+        "monthly_change": "123%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 2,
+        "name": "化妆工具",
+        "monthly_change": "109%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 3,
+        "name": "爽肤水和收敛水",
+        "monthly_change": "85%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 4,
+        "name": "拖鞋",
+        "monthly_change": "77%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 5,
+        "name": "妆前乳和定妆产品",
+        "monthly_change": "68%",
+        "prediction_available": false,
+        "chart_period": "2026-09-11/2026-11-06"
+      },
+      {
+        "rank": 6,
+        "name": "季节性和节日装饰",
+        "monthly_change": "65%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 7,
+        "name": "手套与连指手套",
+        "monthly_change": "49%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 8,
+        "name": "餐垫",
+        "monthly_change": "40%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 9,
+        "name": "润唇膏",
+        "monthly_change": "39%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      },
+      {
+        "rank": 10,
+        "name": "护唇",
+        "monthly_change": "39%",
+        "prediction_available": true,
+        "chart_period": "2026-09-11/2026-12-04"
+      }
+    ]
+  },
+  "moments": {
+    "coverage": "仅8个公开专题入口；圣诞详情点击后要求登录，未采集专题内部数据",
+    "items": [
+      {
+        "name": "感恩节",
+        "name_en": "thanksgiving",
+        "url": "https://trends.pinterest.com/moments/thanksgiving/?country=US"
+      },
+      {
+        "name": "光明节",
+        "name_en": "hanukkah",
+        "url": "https://trends.pinterest.com/moments/hanukkah/?country=US"
+      },
+      {
+        "name": "圣诞",
+        "name_en": "christmas",
+        "url": "https://trends.pinterest.com/moments/christmas/?country=US"
+      },
+      {
+        "name": "新年前夜",
+        "name_en": "new years eve",
+        "url": "https://trends.pinterest.com/moments/new%20years%20eve/?country=US"
+      },
+      {
+        "name": "情人节",
+        "name_en": "valentines day",
+        "url": "https://trends.pinterest.com/moments/valentines%20day/?country=US"
+      },
+      {
+        "name": "圣帕特里克节",
+        "name_en": "st patricks day",
+        "url": "https://trends.pinterest.com/moments/st%20patricks%20day/?country=US"
+      },
+      {
+        "name": "复活节",
+        "name_en": "easter",
+        "url": "https://trends.pinterest.com/moments/easter/?country=US"
+      },
+      {
+        "name": "母亲节",
+        "name_en": "mothers day",
+        "url": "https://trends.pinterest.com/moments/mothers%20day/?country=US"
+      }
+    ]
+  },
+  "editorial": {
+    "items": [
+      {
+        "name": "举办一场奇趣派对",
+        "category": "事件规划、食品和饮料",
+        "keywords": [
+          "whimsy christmas decor",
+          "ribbon garland",
+          "diy crown",
+          "fancy nancy cake ideas",
+          "paper chains"
+        ],
+        "url": "https://trends.pinterest.com/?editorial=0",
+        "growth": null
+      },
+      {
+        "name": "半身裙季",
+        "category": "全部",
+        "keywords": [
+          "black skirt outfit ideas",
+          "leather skirt outfit",
+          "plaid skirt outfit",
+          "fall skirt outfit women",
+          "fall skirt outfits"
+        ],
+        "url": "https://trends.pinterest.com/?editorial=1",
+        "growth": null
+      },
+      {
+        "name": "歌剧风配饰",
+        "category": "时尚",
+        "keywords": [
+          "fur coat outfit",
+          "fur jacket outfit",
+          "brooch outfit ideas",
+          "opera outfit",
+          "opera dress"
+        ],
+        "url": "https://trends.pinterest.com/?editorial=2",
+        "growth": null
+      },
+      {
+        "name": "镜面美甲",
+        "category": "美妆",
+        "keywords": [
+          "cat eye fall nails",
+          "fall cat eye nail designs",
+          "brown nails with chrome",
+          "fall chrome nails",
+          "fall nails cat eye"
+        ],
+        "url": "https://trends.pinterest.com/?editorial=3",
+        "growth": null
+      },
+      {
+        "name": "麂皮风格",
+        "category": "时尚",
+        "keywords": [
+          "brown suede boots outfit",
+          "brown suede jacket outfit",
+          "suede skirt outfit",
+          "suede boots outfit",
+          "suede jacket outfit"
+        ],
+        "url": "https://trends.pinterest.com/?editorial=4",
+        "growth": null
+      }
+    ]
+  },
+  "predicts": {
+    "scope": "全球年度预测；未验证美国专属口径",
+    "year": 2026,
+    "coverage": "21个名称及详情链接；未采集详情页定量预测",
+    "items": [
+      {
+        "name": "Gimme Gummy",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/gimme-gummy"
+      },
+      {
+        "name": "Glamoratti",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/glamoratti"
+      },
+      {
+        "name": "Poetcore",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/poetcore"
+      },
+      {
+        "name": "Neo Deco",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/neo-deco"
+      },
+      {
+        "name": "Scent Stacking",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/scent-stacking"
+      },
+      {
+        "name": "Brooched",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/brooched"
+      },
+      {
+        "name": "Funhaus",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/funhaus"
+      },
+      {
+        "name": "Laced Up",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/laced-up"
+      },
+      {
+        "name": "Pen Pals",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/pen-pals"
+      },
+      {
+        "name": "Vamp Romantic",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/vamp-romantic"
+      },
+      {
+        "name": "Cool Blue",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/cool-blue"
+      },
+      {
+        "name": "Afrohemian Decor",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/afrohemian-decor"
+      },
+      {
+        "name": "Mystic Outlands",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/mystic-outlands"
+      },
+      {
+        "name": "Glitchy Glam",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/glitchy-glam"
+      },
+      {
+        "name": "Khaki Coded",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/khaki-coded"
+      },
+      {
+        "name": "Cabbage Crush",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/cabbage-crush"
+      },
+      {
+        "name": "Extra Celestial",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/extra-celestial"
+      },
+      {
+        "name": "Wilderkind",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/wilderkind"
+      },
+      {
+        "name": "Throwback Kid",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/throwback-kid"
+      },
+      {
+        "name": "Darecations",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/darecations"
+      },
+      {
+        "name": "Opera Aesthetic",
+        "url": "https://business.pinterest.com/pinterest-predicts/2026/opera-aesthetic"
+      }
+    ]
+  },
+  "limitations": [
+    "首次快照，无上周基线；页面增长率并非本次对上周采集的比较。",
+    "未提供绝对搜索量、收藏量或点击量，增长率不代表规模。",
+    "搜索预览未显示统计起止日，不将采集日冒充数据日期。",
+    "54个模块主条目，加25个编辑关联词；不是去重后的79个Topic。"
+  ]
+}

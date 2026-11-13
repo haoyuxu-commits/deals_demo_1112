@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "id": "pinterest-trends-us",
+      "name": "Pinterest Trends",
+      "url": "https://trends.pinterest.com/",
+      "region": "US",
+      "schedule": "每周一15:00 Asia/Shanghai",
+      "report_directory": "pinterest-trends-us/",
+      "status": "local_ready_remote_upload_pending",
+      "metrics": ["Pin收藏次数月增长", "搜索周/月/年变化", "出站点击次数月增长"],
+      "coverage": "公开预览；部分完整列表要求登录；年度预测单独标注全球口径"
+    }
+  ],
+  "conventions": {
+    "directories": "每个来源及地区使用独立目录，包含index.html及按日期保存的HTML与JSON",
+    "weeks": "ISO周，以采集日期归档",
+    "comparisons": "保留各来源指标定义与数据周期，跨来源不直接合并不同指标的增长率",
+    "new_sources": "验证实际可访问的数据及覆盖范围后再启用定时采集"
+  }
+}
